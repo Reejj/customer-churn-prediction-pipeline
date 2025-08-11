@@ -51,13 +51,12 @@ The dataset contains information about 7,043 customers, including:
   - Short-term customers (low tenure) are more likely to churn
   - Month-to-month contracts have the highest churn rate
   - Fiber optic customers tend to churn more in this dataset
-Note
-The trained model file model/churn_pipeline.joblib is NOT included due to GitHub's file size limit.
-To test with a trained model, run the notebook to retrain it or request the file separately.
-
 
 ---
-
+## ⚠ Note
+The trained model file `model/churn_pipeline.joblib` is **NOT included** in this repository due to GitHub’s 100 MB file size limit.  
+If you want to test the model without retraining, you can request the file from me directly, or you can simply run the notebook to retrain the model locally using the provided dataset.
+---
 ## 🚀 How to Run the Project
 ### **1. Clone the repository**
 ```bash
