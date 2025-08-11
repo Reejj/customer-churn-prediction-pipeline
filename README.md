@@ -51,6 +51,10 @@ The dataset contains information about 7,043 customers, including:
   - Short-term customers (low tenure) are more likely to churn
   - Month-to-month contracts have the highest churn rate
   - Fiber optic customers tend to churn more in this dataset
+Note
+The trained model file model/churn_pipeline.joblib is NOT included due to GitHub's file size limit.
+To test with a trained model, run the notebook to retrain it or request the file separately.
+
 
 ---
 
